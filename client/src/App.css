@@ -1,0 +1,7 @@
+.blur{
+    background: linear-gradient(rgba(24, 24, 24, 0.5),rgba(22, 21, 21, 0.5)),url(https://s3-media0.fl.yelpcdn.com/bphoto/4uFRR8uOPih6HnuxcMSm4g/l.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 99.9vh;
+    
+}
